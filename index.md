@@ -6,4 +6,6 @@
 4. Bread 🍞
 
 
+
 // TODO: add more items to the shopping list.
+- chocolates
